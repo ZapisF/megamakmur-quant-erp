@@ -1,0 +1,5 @@
+job_code,entry_date,customer_name,whatsapp_number,vehicle_model,license_plate,service_category,service_detail,technician,price_charged_idr,material_cost_idr,amount_paid_idr,status,payment_method,completion_date
+BK-202610-001,2026-10-22,Pelanggan Walk-In,-,2015 Fortuner TRD,B 2612 TBO,Lampu / Bi-LED,Pasang LED Headlights (Grille),Ajis,800000,450000,800000,Selesai,QRIS Bank,2026-10-22
+BK-202610-002,2026-10-24,Juan,08128839201,2022 CR-V Turbo Prestige,B 282 EHT,Body kit / Exterior,Pasang talang air CR-V OEM,Boss Owner,850000,350000,850000,Selesai,Cash,2026-10-24
+BK-202610-003,2026-10-26,Hendra,08119283741,2009 Hyundai i20,B 2394 KYJ,HVAC (AC),Ganti Evaporator + isi freon,Boss Owner,1700000,575000,1700000,Selesai,Transfer,2026-10-26
+BK-202610-004,2026-10-28,Robby,08131122334,2021 Innova Reborn V,B 1948 KZS,Head Unit,Upgrade Audioteq AQ-A9 4/128GB + Kamera 360,Ajis,4800000,3100000,2400000,Dikerjakan,Transfer,
